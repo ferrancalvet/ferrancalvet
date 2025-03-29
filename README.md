@@ -1,3 +1,3 @@
 👋 Hi, I’m @ferrancalvet
- 👀 I’m interested in algorithm trading
- 🌱 I’m currently learning how to create a trading bot
+ 👀 I’m interested in Blockchain Developer
+ 🌱 I’m currently learning how to became Blockchain Developer
