@@ -1,3 +1,3 @@
 👋 Hi, I’m @ferrancalvet
- 👀 I’m interested in Blockchain Developer
- 🌱 I’m currently learning how to became Blockchain Developer
+ 👀 I’m interested in Blockchain 
+ 🌱 I’m currently learning about Blockchain & Solidity
